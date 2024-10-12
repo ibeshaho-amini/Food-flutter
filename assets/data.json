@@ -1,0 +1,26 @@
+[
+  {
+    "placeImage": "images/burger3.jpg",
+    "placeName": "The Burgers",
+    "placeItems": ["burgers","chinese","Fast Food","Rwandan","Juice"],
+    "miniOrder": 20
+  },
+  {
+    "placeImage": "images/pizza1.jpg",
+    "placeName": "Pizza Hut",
+    "placeItems": ["burgers","chinese","Fast Food","Rwandan","Juice"],
+    "miniOrder": 50
+  },
+  {
+    "placeImage": "images/bread1.jpg",
+    "placeName": "Flipping Noodles",
+    "placeItems": ["burgers","chinese","Fast Food","Rwandan","Juice"],
+    "miniOrder": 20
+  },
+  {
+    "placeImage": "images/pizza3.jpg",
+    "placeName": "Blue Hill",
+    "placeItems": ["burgers","chinese","Fast Food","Rwandan","Juice"],
+    "miniOrder": 40
+  }
+]
